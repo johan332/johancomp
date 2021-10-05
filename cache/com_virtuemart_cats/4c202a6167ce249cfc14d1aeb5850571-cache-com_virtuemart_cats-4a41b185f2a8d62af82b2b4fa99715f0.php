@@ -1,0 +1,1 @@
+<?php die("Access Denied"); ?>#x#a:2:{s:6:"result";s:188:"<option   value="17">Keyboard</option><option   value="16">Monitor</option><option   value="14">Motherboard</option><option   value="13">Processor</option><option   value="15">VGA</option>";s:6:"output";s:0:"";}
